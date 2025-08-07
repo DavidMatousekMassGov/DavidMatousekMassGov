@@ -2,7 +2,7 @@
 
 **Cybersecurity executive with 20+ years of leadership experience developing enterprise security solutions that align technology outcomes with business objectives.**
 
-Currently leading security implementation for the Commonwealth of Massachusetts' financial and HR applications that process over $78 billion annually.
+Currently leading security implementation for the Commonwealth of Massachusetts' financial and HR applications.
 
 As a product-focused security leader, I transform cybersecurity from a cost center to a value driver by implementing data-driven strategies and building high-performing teams. My expertise spans cloud security, application security, and secure DevOps, with a proven track record of reducing risk while enhancing business capabilities.
 
